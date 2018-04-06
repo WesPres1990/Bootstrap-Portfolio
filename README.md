@@ -10,7 +10,9 @@ Additionally, the site provides links to my social media profiles on LinkedIn, G
 
 ### Technologies Used
 
-Languages - HTML5, CSS4, Bootstrap
+Languages - HTML5, CSS4
+
+Library - Bootstrap
 
 Text Editor - Visual Studio Code
 
