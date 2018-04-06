@@ -1,4 +1,4 @@
-# Bootstrap-Portfolio
+# Bootstrap Portfolio
 
 My second portfolio site, which demonstrates my first use of Bootstrap. It provides an introduction page with a short biography about myself, a contact page, and a page which features my portfolio of projects.
 
@@ -12,7 +12,7 @@ Additionally, the site provides links to my social media profiles on LinkedIn, G
 
 Languages - HTML5, CSS4, Bootstrap
 
-Text Editor - VS Studio
+Text Editor - Visual Studio Code
 
 
 ## Preview
